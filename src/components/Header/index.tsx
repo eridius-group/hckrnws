@@ -99,7 +99,7 @@ const Header: React.FC = () => {
   return (
     <div className="flex justify-between py-3 flex-none">
       <Link href="/">
-        <h2 className="text-xl md:text-2xl font-mono text-primary">hckrnws</h2>
+        <h2 className="text-xl md:text-2xl font-mono text-primary">Erix HackerNews</h2>
       </Link>
       <div className="flex items-center">
         <Dropdown

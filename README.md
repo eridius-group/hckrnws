@@ -1,5 +1,12 @@
 # hckrnws - A cleaner reading experience for HackerNews
 
+## Fork Notice
+This repository is a fork of [hckrnws](https://github.com/rajatkulkarni95/hckrnws) for the purposes of the Erix Cloud hosted version.
+This version is likely a re-skin of the original project, with some changes to production settings and deployment.
+Please do not contribute to this project, as it is not the original project. All contributions should go to the upstream version.
+If you like this fork, we strongly recommend donating to the original project linked above.
+Thank you!
+
 ## Getting Started
 
 First, run the development server:
